@@ -1,5 +1,5 @@
 practica parcial
-Capítulo 3: Gestión de ramas
+Capítulo 3: Gestión de archivos
 
 
  
